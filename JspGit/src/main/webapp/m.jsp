@@ -7,5 +7,6 @@
 </head>
 <body>
  <h1>m.jsp입니다. 수정했습니다.</h1>
+ <h2>local-3</h2>
 </body>
 </html>
